@@ -17,8 +17,8 @@ To write a program to predict the type of species of the Iris flower using the S
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: swathi.s
-RegisterNumber:  212223040219.
+Developed by: thirumalai v
+RegisterNumber:  212223040229.
 */
 ```
 ```PYTHON
